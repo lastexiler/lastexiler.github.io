@@ -1,2 +1,2 @@
-# L'Log
+# lastexiler.github.io
 Lastexiler's Blog
