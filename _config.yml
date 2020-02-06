@@ -1,0 +1,21 @@
+title: L'note
+name: "Lastexiler's Tech Blog"
+author: lastexiler
+baseurl: "/lastexiler.github.io"
+description: learning notes
+profile_url: "http://lastexiler.github.io"
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+excerpt_separator: <!--more-->
+plugins:
+  - jekyll-feed
+  - jekyll-archives
+exclude:
+  - Gemfile
+  - Gemfile.lock
+kramdown:
+  input: GFM
+  auto_ids: true
+  syntax_highlighter: rouge
