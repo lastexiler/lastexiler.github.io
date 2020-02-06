@@ -36,9 +36,6 @@ Indeed, learning is probably the best superpower we humans have.
  
 
 
-{: class="table-of-content"}
-* TOC
-{:toc}
 
 
 ## Task-Specific Curriculum
