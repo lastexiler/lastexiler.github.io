@@ -9,9 +9,11 @@ profile_url: "http://lastexiler.github.io"
 markdown: kramdown
 highlighter: rouge
 excerpt_separator: <!--more-->
+theme: minima
 plugins:
   - jekyll-feed
   - jekyll-archives
+  - jekyll-seo-tag
 exclude:
   - Gemfile
   - Gemfile.lock
